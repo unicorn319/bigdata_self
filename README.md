@@ -66,3 +66,16 @@ nimbus.host: nimbus1
 
 13. `source ~/.bashrc`
 
+## Other Command
+1. redis-server
+```
+sudo yum install redis php-pecl-redis
+sudo service redis start
+```
+2. install beautifulsoup module for web crawler
+
+`sudo easy_install BeautifulSoup`
+
+3. install git
+
+`sudo yum git`
