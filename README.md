@@ -79,3 +79,7 @@ sudo service redis start
 3. install git
 
 `sudo yum git`
+
+4. install pip
+`sudo wget https://bootstrap.pypa.io/get-pip.py`
+`sudo python2.6 get-pip.py`
